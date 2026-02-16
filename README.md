@@ -9,8 +9,6 @@ mas eu acabei fazendo uma calculadora porque eu estava pensativo demais, então.
 
 ``cd Calculadora-em-bash``
 
-``chmod calculadora.sh``
-
 ``bash calculadora.sh`` ou ``./calculadora.sh``
 
 # Aviso rápido:
