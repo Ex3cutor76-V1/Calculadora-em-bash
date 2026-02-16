@@ -4,5 +4,11 @@ mas eu acabei fazendo uma calculadora porque eu estava pensativo demais, então.
 
 # Aqui está a instalação se caso quiser testar:
 
-``git clone 
+``git clone https://github.com/Ex3cutor76-V1/Calculadora-em-bash.git
 ``
+
+``cd Calculadora-em-bash``
+
+``chmod calculadora.sh``
+
+``bash calculadora.sh`` ou ``./calculadora.sh``
