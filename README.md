@@ -17,9 +17,12 @@ mas eu acabei fazendo uma calculadora porque eu estava pensativo demais, então.
 
 Basicamente ele funciona com opções e aqui as opções:
 
-1 --> Soma
-2 --> Subtração
+1 --> soma
+
+2 --> subtração 
+
 3 --> Multiplicação
+
 4 --> Divisão
 
 É isso.
